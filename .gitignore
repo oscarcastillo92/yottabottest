@@ -2,4 +2,4 @@ node_modules/
 .env
 src/services/googleSheetsServices.js
 src/credentials/
-google sheets/clavesecretcorreo.json
+google sheets/
